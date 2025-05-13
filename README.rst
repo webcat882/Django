@@ -51,7 +51,6 @@ To run Django's test suite:
   https://docs.djangoproject.com/en/dev/internals/contributing/writing-code/unit-tests/#running-the-unit-tests
 
 Supporting the Development of Django
-====================================
 
 Django's development depends on your contributions.
 
